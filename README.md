@@ -20,8 +20,8 @@ Students attending:
 13. ---
 14. ---
 15. ---
-16. ---ISHAN
-17. ---Eduardo
+16. ---[AST] ISHAN
+17. ---[AST] Eduardo Cervantes
 18. ---
 19. ---
 20. ---
